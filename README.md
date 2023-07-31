@@ -37,7 +37,7 @@ The Banana Bot responds to the following commands:
 
 ## Interacting with the Banana Bot
 
-You can chat with the Banana Bot in any Telegram group or directly in private messages. The bot will respond to messages that mention its `BOT_USERNAME` in groups.
+You can chat with the Banana Bot in any Telegram group or directly in private messages. The bot will respond to messages that mention its `BOT_USERNAME` (`@your_bot_username_here`) in groups.
 
 ## Features
 
